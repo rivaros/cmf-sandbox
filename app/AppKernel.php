@@ -56,7 +56,7 @@ class AppKernel extends Kernel
             new FOS\JsRoutingBundle\FOSJsRoutingBundle(),
 
             // jackalope doctrine caching
-            new Liip\DoctrineCacheBundle\LiipDoctrineCacheBundle(),
+//             new Liip\DoctrineCacheBundle\LiipDoctrineCacheBundle(),
 
             // block caching and feeds
             new Sonata\CacheBundle\SonataCacheBundle(),
